@@ -2,5 +2,9 @@ require "great/version"
 
 module Great
   class Error < StandardError; end
-  # Your code goes here...
+  class Text
+  	def self.hi
+  		puts "hello"
+  	end
+  end
 end
