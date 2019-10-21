@@ -13,6 +13,7 @@ Gem::Specification.new do |spec|
   spec.description   = %q{description}
   spec.homepage      = "https://github.com/geethatulasi-nyros/sample"
   spec.license       = "MIT"
+  spec.files         = ['lib/great.rb']
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
